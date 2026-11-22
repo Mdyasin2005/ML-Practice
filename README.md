@@ -37,6 +37,16 @@ A collection of things I've built, explored and learned from.
 - Decision Tree-based Age imputation.
 - Classification using XGBoost.
 
+### 📂 Explore My Work
+
+| Folder | What's inside |
+|---|---|
+| [Advanced ML](./Advanced_ML/) | Advanced algorithms, model experiments and implementations. |
+| [Kaggle Competitions](./Kaggle_Comp/) | Hands-on competition projects and predictive modeling. |
+| [ML Beginning](./ML_Beggining/) | My early experiments and Machine Learning fundamentals. |
+
+*Each folder represents a different stage of my learning and experimentation.*
+
 **Tools:** `Python` `Pandas` `Scikit-learn` `XGBoost`
 
 *Learning outcome: Understanding how preprocessing and feature engineering influence classification models.*
