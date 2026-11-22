@@ -1,3 +1,14 @@
+
+<p align="center">
+  <img
+    src="assets/github-banner.png"
+    alt="Yasin - Machine Learning, AI and Engineering"
+    width="100%"
+  />
+</p>
+
+<br/>
+
 # ML Practice 🧠
 
 > Not just training models. Understanding what's happening behind them.
